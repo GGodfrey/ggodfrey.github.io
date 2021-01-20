@@ -1,9 +1,8 @@
-"---
+---
 title: 'Bing Maps API in Excel'
 layout: post
 tags: []
-category: 
-Uncategoried
+category: Uncategoried
 ---
 
 <p>I was tasked with building a carbon calculator for a conference. Delegates would enter their origin and the modes of transport. The system would then calculate the carbon cost and add it to a list. At the end of the conference we were going to sum up the carbon cost and offset it with tree planting. Covid put a stop to the conference which was a win in terms of carbon.</p>
