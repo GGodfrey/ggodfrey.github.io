@@ -1,4 +1,5 @@
 ---
+title: blog
 layout: default
 ---
 <img src = "ggodfrey.github.io/images/London.PNG">
