@@ -2,7 +2,7 @@
 title: Blog
 layout: blog-home
 ---
-<img src = "https://ggodfrey.github.io/images/London.PNG" width=100%>
+<img src = "https://ggodfrey.github.io/images/London.PNG">
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
