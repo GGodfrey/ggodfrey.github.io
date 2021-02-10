@@ -2,8 +2,7 @@
 title: 'Excel Remove numbers from string'
 layout: post
 tags: []
-category: 
-Uncategoried
+category: Uncategoried
 ---
 
 <p>Problem: Remove numbers from a string that has both numerals and words. e.g. you have a list of addresses and want to remove the numers to create just a list of roads.</p>
