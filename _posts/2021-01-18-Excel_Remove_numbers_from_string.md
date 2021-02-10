@@ -1,4 +1,4 @@
-"---
+---
 title: 'Excel Remove numbers from string'
 layout: post
 tags: []
@@ -19,4 +19,4 @@ Uncategoried
 
 <!-- wp:image {""id"":168,""sizeSlug"":""large""} -->
 <figure class=""wp-block-image size-large""><img src=""https://gisdriverslicence.files.wordpress.com/2020/09/remove-digits-macro.png?w=1024"" alt="""" class=""wp-image-168"" /></figure>
-<!-- /wp:image -->"
+<!-- /wp:image -->
