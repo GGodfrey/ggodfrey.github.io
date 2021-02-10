@@ -1,6 +1,6 @@
 ---
 title: Blog
-layout: blog
+layout: blog-home
 ---
 <img src = "https://ggodfrey.github.io/images/London.PNG">
 <div class="posts">
