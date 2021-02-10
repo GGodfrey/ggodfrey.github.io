@@ -1,5 +1,5 @@
 ---
-title: blog
+title: Blog
 layout: blog
 ---
 <img src = "ggodfrey.github.io/images/London.PNG">
