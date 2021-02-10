@@ -2,12 +2,12 @@
 title: Blog
 layout: blog-home
 ---
-<img width=100% src = "https://ggodfrey.github.io/images/London.PNG">
+<img src = "https://ggodfrey.github.io/images/London.PNG" width=100%>
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
-      <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
       <div class="entry">
         {{ post.excerpt }}
       </div>
