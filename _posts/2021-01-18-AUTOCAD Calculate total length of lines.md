@@ -1,5 +1,9 @@
 ---
-title: 'AUTOCAD Calculate total length of lines'
+modified: 2021-02-11T13:53:47+00:00
+---
+
+---
+title: AUTOCAD Calculate total length of lines
 layout: post
 tags: []
 category: Uncategoried
