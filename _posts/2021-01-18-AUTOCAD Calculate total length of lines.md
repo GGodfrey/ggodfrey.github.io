@@ -1,6 +1,8 @@
 ---
-modified: 2021-02-11T13:53:47+00:00
+modified: 2021-02-19T13:48:58+00:00
 ---
+
+# AUTOCAD Calculate total length of lines
 
 ---
 title: AUTOCAD Calculate total length of lines
