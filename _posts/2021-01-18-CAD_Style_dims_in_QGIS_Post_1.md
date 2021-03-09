@@ -2,8 +2,7 @@
 title: 'CAD Style dims in QGIS Post 1'
 layout: post
 tags: []
-category: 
-Uncategoried
+category: Uncategoried
 ---
 
 <p>In the world of AutoCAD, dimensions are fully built in and work really well. Whereas in QGIS there is no built in function to create them.</p>
