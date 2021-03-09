@@ -3,8 +3,7 @@
 title: 'beginners QGIS tutorial'  
 layout: blog-post  
 tags: \[\]  
-category:  
-Uncategoried
+category: Uncategoried
 
 ---
 
